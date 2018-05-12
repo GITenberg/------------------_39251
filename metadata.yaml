@@ -1,0 +1,45 @@
+_repo: '------------------_39251'
+_version: 0.1.0
+alternative_title: Prometheus Bound
+contributor:
+  translator:
+    agent_name: Zervos, I. (Ioannes)
+    aliases:
+    - Zervos, John
+    - Ζερβός, Ιωάννης
+    - Zerbos, I. (Ioannes)
+    - Zervos, Ioannes
+    birthdate: 1875
+    deathdate: 1944
+    gutenberg_agent_id: '34203'
+    url: http://www.gutenberg.org/2009/agents/34203
+covers:
+- cover_type: archival
+  image_path: 39251-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Αἰσχύλος
+    - Aischylos
+    - Αισχύλος
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39251'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Prometheus (Greek deity) -- Drama'
+- !lcsh 'Mythology, Greek -- Drama'
+title: Προμηθεύς Δεσμώτης
+url: http://www.gutenberg.org/ebooks/39251
